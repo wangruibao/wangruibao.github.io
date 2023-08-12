@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hexo博客搭建基础教程（一）</title>
+      <link href="/2023/08/12/2023-08-12-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B1/"/>
+      <url>/2023/08/12/2023-08-12-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-前言"><a href="#1-前言" class="headerlink" title="1.前言"></a>1.前言</h1><p>1.博客搭建过程遇到任何问题，优先在本页面搜索，检查是否已经有该配置教程。<br>2.遇到问题可以优先在文章评论区留言，注意留言时请填写正确的邮箱以确保能收到站长的回复。</p><h1 id="2-环境与工具准备"><a href="#2-环境与工具准备" class="headerlink" title="2.环境与工具准备"></a>2.环境与工具准备</h1><ul><li>操作系统：Windows11</li><li>Node.js</li><li>Git</li><li>Hexo框架</li><li>文本编辑器(强烈推荐VSCODE)</li><li>GitHub 帐号</li><li>一个域名（强烈推荐买个域名）</li><li>云服务器（可选）</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客搭建 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Joker Blog 简介，Joker阿宝个人简介及社交账号</title>
       <link href="/2023/08/09/2023-08-10-%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/"/>
       <url>/2023/08/09/2023-08-10-%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</url>
