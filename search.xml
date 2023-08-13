@@ -8,8 +8,16 @@
       <link href="/2023/08/12/2023-08-12-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B1/"/>
       <url>/2023/08/12/2023-08-12-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B1/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-前言"><a href="#1-前言" class="headerlink" title="1.前言"></a>1.前言</h1><p>1.博客搭建过程遇到任何问题，优先在本页面搜索，检查是否已经有该配置教程。<br>2.遇到问题可以优先在文章评论区留言，注意留言时请填写正确的邮箱以确保能收到站长的回复。</p><h1 id="2-环境与工具准备"><a href="#2-环境与工具准备" class="headerlink" title="2.环境与工具准备"></a>2.环境与工具准备</h1><ul><li>操作系统：Windows11</li><li>Node.js</li><li>Git</li><li>Hexo框架</li><li>文本编辑器(强烈推荐VSCODE)</li><li>GitHub 帐号</li><li>一个域名（强烈推荐买个域名）</li><li>云服务器（可选）<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ol><li>本文为转载文章，原作者<a href="https://www.fomal.cc/">Fomalhaut🥝</a></li><li>博客搭建过程遇到任何问题，优先在本页面搜索，检查是否已经有该配置教程。</li><li>遇到问题可以优先在文章评论区留言，注意留言时请填写正确的邮箱以确保能收到站长的回复。</li></ol><h1 id="环境与工具准备"><a href="#环境与工具准备" class="headerlink" title="环境与工具准备"></a>环境与工具准备</h1><ul><li>操作系统：Windows11</li><li>Node.js</li><li>Git</li><li>Hexo框架</li><li>文本编辑器(强烈推荐VSCODE)</li><li>GitHub 帐号</li><li>一个域名（强烈推荐买个域名）</li><li>云服务器（可选）</li></ul><h1 id="安装Node"><a href="#安装Node" class="headerlink" title="安装Node"></a>安装Node</h1><ol><li>打开Node官网，下载和自己系统相配的Node的安装程序，否则会出现安装问题。下载地址：<a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a></li><li>下载后安装，安装的目录可以使用默认目录【C:/Program Files/nodejs/】，也可以自定义路径。<br>这个环境路径切换坑也很多，如果大家C盘空间足够可以直接装C盘，如果想切换其他盘或者把环境遍历切换到自定义路径也可以，具体教程百度(不过坑比较多就是了)!</li><li>安装完成后，检查是否安装成功。在键盘按下win + R键，输入CMD，然后回车，打开CMD窗口，执行<kbd>node -v</kbd>命令，看到版本信息，则说明安装成功。</li><li>修改npm源。npm下载各种模块，默认是从国处服务器下载，速度较慢，建议配置成淘宝镜像。打开CMD窗口，运行如下命令:<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure></li></ol><h1 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h1><ol><li>在<kbd>Git BASH</kbd>输入如下命令安装<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></li><li>安装完成后输入<kbd>hexo -v</kbd>检验是否安装成功</li></ol><h1 id="GitHub注册与创建仓库"><a href="#GitHub注册与创建仓库" class="headerlink" title="GitHub注册与创建仓库"></a>GitHub注册与创建仓库</h1><ol><li>进入官网<a href="https://github.com/">https://github.com/</a><br><img src="https://bu.dusays.com/2022/05/12/627d2c0449341.webp" alt="注册GitHub"></li><li>点击右上角的<kbd>Sign up</kbd>（注册）<br><img src="https://bu.dusays.com/2022/05/12/627d2c05ee628.png" alt="进入注册"></li><li>填写自己的邮箱、密码、用户名等信息，然后用邮箱验证即可完成。</li></ol>]]></content>
       
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> 博客 </category>
+          
+      </categories>
       
       
         <tags>
