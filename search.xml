@@ -8,9 +8,29 @@
       <link href="/posts/1.html"/>
       <url>/posts/1.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ol><li>本文为转载文章，原作者<a href="https://www.fomal.cc/">Fomalhaut🥝</a></li><li>博客搭建过程遇到任何问题，优先在本页面搜索，检查是否已经有该配置教程。</li><li>遇到问题可以优先在文章评论区留言，注意留言时请填写正确的邮箱以确保能收到站长的回复。</li><li>如果有不清楚的请参考原作者Fomalhaut🥝的视频-<a href="https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=268bcd4c48dd4c59860bdf80426749d2">第2期：Vercel部署并绑定自定义域名+安装Butterfly主题</a></li></ol><h1 id="Vercel部署与自定义域名"><a href="#Vercel部署与自定义域名" class="headerlink" title="Vercel部署与自定义域名"></a>Vercel部署与自定义域名</h1><h2 id="Vercel部署"><a href="#Vercel部署" class="headerlink" title="Vercel部署"></a>Vercel部署</h2><p>Vercel简介：<a href="https://vercel.com/dashboard">vercel</a>是一个代码托管平台，它能够托管你的静态html界面，甚至能够托管你的node.js与Python服务端脚本，是<strong>不想买服务器的懒人的福音</strong>！</p><p><strong>使用Vercel部署Hexo项目步骤：</strong></p><p>首先需要一个Vercel账号，这里 <strong>推荐用GitHub账户关联，这样你就可以在vercel中直接托管你的GitHub库中的项目了</strong>，实现开发部署一步到位（网络不流畅可以考虑挂梯子）。</p><p>当你用你的Github账户关联并绑定手机号登录之后，点击右上角的<kbd>Add New Project</kbd>创建新的项目，之后导入选项那里选择<kbd>Continue with Github</kbd>，这时候应该能看到你Github账号的仓库，选择你刚刚部署成功的存储静态博客的仓库<kbd>[username].github.io</kbd>右边的<kbd>Import</kbd>选项，表示你要导入该仓库。</p><p><img src="https://cdn.staticaly.com/gh/wangruibao/picture@main/img/2023/20230819224830.png" alt="20230819224830"></p><p><img src="https://cdn.staticaly.com/gh/wangruibao/picture@main/img/2023/20230819224858.png" alt="20230819224858"></p><p>起一个只能有字母、数字或者或者连字符的项目名称，然后其他默认，点击<kbd>Deploy</kbd>，等待一分钟即可部署成功，部署成功后点击<kbd>Continue to Dashboard</kbd>跳转到控制面板，下图所示就是控制面板，看到就代表成功部署到了，但是我们现在还不能访问他给出的域，因为GFW最近把Vercel屏蔽了。</p><p><img src="https://cdn.staticaly.com/gh/wangruibao/picture@main/img/2023/20230819225121.png" alt="20230819225121"></p><h2 id="绑定自定义域名"><a href="#绑定自定义域名" class="headerlink" title="绑定自定义域名"></a>绑定自定义域名</h2><p>现在你的个人网站的地址是 <kbd>username.github.io</kbd> 以及在Vercel上有一个<kbd>blog-demo-chi.vercel.app</kbd>，如果觉得不够定制化，可以购买一个专属域名。</p><p>腾讯云、阿里云等都是不错的域名代理商，建议选用<kbd>com</kbd>，<kbd>cn</kbd>或<kbd>cc</kbd>这类常用好记的顶域，对SEO比较友好，自定义部分的长度尽可能短别人才会更容易地记住你的网站，要知道域名就是你网站的卡片。此处以阿里云域名为例进行说明，购买域名后，实名认证进入阿里云控制台，点云解析进去，找到你刚买的域名，点进去添加Vercel所需的解析记录，注意博主这里是解析二级域名只需要解析一条即可。但是如果是一级域名，需要解析两个，一个是&lt;kbd&gt;@&lt;/kbd&gt;，另外一个是<kbd>www</kbd>，Vercel建议是&lt;kbd&gt;@&lt;/kbd&gt;的解析重定向至<kbd>www</kbd>。</p><p><strong>添加自定义域名的步骤：</strong></p><ol><li>点击Vercel控制面板右上角的<kbd>View Domains</kbd>查看当前的域，我们可以看到仅有Vercel给你预分配的一个域名，此时我们输入刚刚购买的域名，我这里以二级域名<kbd>blog.wrbjoker.top</kbd>为例进行说明，添加后他会提示你添加一条DNS解析记录。</li></ol><p>P.S. 添加域名DNS解析的步骤请自行百度，添加步骤基本一致</p><ol><li><p>添加好后回到Vercel刚刚查看域名的地方，如果操作没问题，应该会显示域名配置成功的提示，此时就可以通过自定义域名来访问我们搭建的网站了。</p></li><li><p>当你有了新的域名之后，需要<kbd>[BlogRoot]_config.yml</kbd>文件中的<kbd>url</kbd>配置项为自己的新域名，这样博客的文章链接才会正确生成。</p></li></ol><p><img src="https://cdn.staticaly.com/gh/wangruibao/picture@main/img/2023/20230819225826.png" alt="20230819225826"></p>]]></content>
       
       
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客搭建 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
       
     </entry>
     
