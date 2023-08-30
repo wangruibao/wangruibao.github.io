@@ -6,7 +6,7 @@
   <link href="http://blog.wrbjoker.top/atom.xml" rel="self"/>
   
   <link href="http://blog.wrbjoker.top/"/>
-  <updated>2023-08-27T14:17:12.680Z</updated>
+  <updated>2023-08-29T10:57:30.872Z</updated>
   <id>http://blog.wrbjoker.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.wrbjoker.top/posts/5.html"/>
     <id>http://blog.wrbjoker.top/posts/5.html</id>
     <published>2023-08-23T16:00:00.000Z</published>
-    <updated>2023-08-27T14:17:12.680Z</updated>
+    <updated>2023-08-29T10:57:30.872Z</updated>
     
     
       
@@ -37,16 +37,12 @@
     
     <category term="Hexo" scheme="http://blog.wrbjoker.top/categories/Hexo/"/>
     
-    <category term="博客" scheme="http://blog.wrbjoker.top/categories/Hexo/%E5%8D%9A%E5%AE%A2/"/>
-    
     
     <category term="Hexo" scheme="http://blog.wrbjoker.top/tags/Hexo/"/>
     
     <category term="博客搭建" scheme="http://blog.wrbjoker.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     <category term="教程" scheme="http://blog.wrbjoker.top/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="经验" scheme="http://blog.wrbjoker.top/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
@@ -55,7 +51,7 @@
     <link href="http://blog.wrbjoker.top/posts/4.html"/>
     <id>http://blog.wrbjoker.top/posts/4.html</id>
     <published>2023-08-18T16:00:00.000Z</published>
-    <updated>2023-08-27T14:16:57.390Z</updated>
+    <updated>2023-08-29T10:57:15.775Z</updated>
     
     
       
@@ -71,16 +67,12 @@
     
     <category term="Hexo" scheme="http://blog.wrbjoker.top/categories/Hexo/"/>
     
-    <category term="博客" scheme="http://blog.wrbjoker.top/categories/Hexo/%E5%8D%9A%E5%AE%A2/"/>
-    
     
     <category term="Hexo" scheme="http://blog.wrbjoker.top/tags/Hexo/"/>
     
     <category term="博客搭建" scheme="http://blog.wrbjoker.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     <category term="教程" scheme="http://blog.wrbjoker.top/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="经验" scheme="http://blog.wrbjoker.top/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
@@ -89,7 +81,7 @@
     <link href="http://blog.wrbjoker.top/posts/3.html"/>
     <id>http://blog.wrbjoker.top/posts/3.html</id>
     <published>2023-08-15T16:00:00.000Z</published>
-    <updated>2023-08-21T11:53:09.660Z</updated>
+    <updated>2023-08-29T10:58:19.678Z</updated>
     
     
       
@@ -103,12 +95,8 @@
     
     
     
-    <category term="博客" scheme="http://blog.wrbjoker.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="免费资源" scheme="http://blog.wrbjoker.top/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/"/>
     
-    <category term="免费资源" scheme="http://blog.wrbjoker.top/categories/%E5%8D%9A%E5%AE%A2/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/"/>
-    
-    
-    <category term="博客" scheme="http://blog.wrbjoker.top/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="推荐" scheme="http://blog.wrbjoker.top/tags/%E6%8E%A8%E8%8D%90/"/>
     
@@ -121,7 +109,7 @@
     <link href="http://blog.wrbjoker.top/posts/2.html"/>
     <id>http://blog.wrbjoker.top/posts/2.html</id>
     <published>2023-08-11T16:00:00.000Z</published>
-    <updated>2023-08-27T14:16:46.435Z</updated>
+    <updated>2023-08-29T10:57:26.327Z</updated>
     
     
       
@@ -137,16 +125,12 @@
     
     <category term="Hexo" scheme="http://blog.wrbjoker.top/categories/Hexo/"/>
     
-    <category term="博客" scheme="http://blog.wrbjoker.top/categories/Hexo/%E5%8D%9A%E5%AE%A2/"/>
-    
     
     <category term="Hexo" scheme="http://blog.wrbjoker.top/tags/Hexo/"/>
     
     <category term="博客搭建" scheme="http://blog.wrbjoker.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     <category term="教程" scheme="http://blog.wrbjoker.top/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="经验" scheme="http://blog.wrbjoker.top/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
@@ -155,7 +139,7 @@
     <link href="http://blog.wrbjoker.top/posts/1.html"/>
     <id>http://blog.wrbjoker.top/posts/1.html</id>
     <published>2023-08-08T16:00:00.000Z</published>
-    <updated>2023-08-21T11:52:54.810Z</updated>
+    <updated>2023-08-29T10:51:25.264Z</updated>
     
     
     <summary type="html">Joker Blog和Joker阿宝的一些信息</summary>
