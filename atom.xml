@@ -6,7 +6,7 @@
   <link href="http://blog.wrbjoker.top/atom.xml" rel="self"/>
   
   <link href="http://blog.wrbjoker.top/"/>
-  <updated>2023-10-03T06:29:19.433Z</updated>
+  <updated>2023-10-06T03:05:16.359Z</updated>
   <id>http://blog.wrbjoker.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ChatGPT Next Web搭建教程</title>
+    <link href="http://blog.wrbjoker.top/posts/6.html"/>
+    <id>http://blog.wrbjoker.top/posts/6.html</id>
+    <published>2023-10-05T16:00:00.000Z</published>
+    <updated>2023-10-06T03:05:16.359Z</updated>
+    
+    
+    
+    
+    <category term="ChatGPT" scheme="http://blog.wrbjoker.top/categories/ChatGPT/"/>
+    
+    
+    <category term="教程" scheme="http://blog.wrbjoker.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="ChatGPT" scheme="http://blog.wrbjoker.top/tags/ChatGPT/"/>
+    
+    <category term="前端" scheme="http://blog.wrbjoker.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo博客搭建基础教程（三）</title>
     <link href="http://blog.wrbjoker.top/posts/5.html"/>
     <id>http://blog.wrbjoker.top/posts/5.html</id>
     <published>2023-08-23T16:00:00.000Z</published>
-    <updated>2023-10-03T06:29:19.433Z</updated>
+    <updated>2023-10-05T08:52:57.800Z</updated>
     
     
       
