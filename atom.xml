@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Joker Blog</title>
   <icon>http://blog.wrbjoker.top/icon.png</icon>
-  <subtitle>小丑博客</subtitle>
+  <subtitle>Jokerの小破站</subtitle>
   <link href="http://blog.wrbjoker.top/atom.xml" rel="self"/>
   
   <link href="http://blog.wrbjoker.top/"/>
